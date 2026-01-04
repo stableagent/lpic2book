@@ -6,7 +6,7 @@
 
 خوب، بیایید ساده نگه داریم و شروع کنیم... :-)
 
-توسط Payam Borosan
+توسطPayam Borosan
 
 * سایت: [www.linuxcert.ir](http://linuxcert.ir/)
 * GitBook: [https://borosan.gitbook.io/lpic2-exam-guide/](https://borosan.gitbook.io/lpic2-exam-guide/)
@@ -22,3 +22,11 @@
 ![](.gitbook/assets/lpic2-201&202.jpg)
 
 ![](.gitbook/assets/CC-BY-NC-icon-88x31.png)
+
+
+
+مترجم : (سعید  اسماعیلزایی) Saeed Esmailzaee *
+وب‌سایت: [www.openfig.ir](http://openfig.ir/
+* ایمیل: stableagent \[at] gmail.com
+تلاش کرده ام بدون هیچ گونه دخل و تصرفی در کلام نویسنده بر طبق اصول ترجمه داکیومنت های فنی به درستی ترجمه کنم و طبق اصول اخلاقی تمامی منافع مادی و معنوی این اثر مربوط به نویسنده آن است.
+
